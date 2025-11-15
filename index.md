@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "我的文档站点"
+  name: "我的文档站点 Test"
   text: "一个学习vitepress的文档"
   tagline: 我想做些不寻常的事情
   actions:
